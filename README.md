@@ -1,10 +1,10 @@
 # Digital Image Processing in Python from Scratch
 
-Welcome to this repository, where you will find mplementations of some basic digital image processing algorithms in Python, without the use of any external libraries.
+Welcome to this repository, hhere you will find implementations of some basic digital image processing algorithms in Python, without using any external libraries.
 
 ## Usage
 
-The code is provided in the form of Jupyter Notebooks. To use the code, you need to have [Jupyter Notebook](https://jupyter.org/) installed on your machine. Simply clone or download the repository and navigate to the directory containing the notebooks.
+The codes are provided in the form of Jupyter Notebooks. To use the codes, you need to have [Jupyter Notebook](https://jupyter.org/) installed on your machine. Simply clone or download the repository and navigate to the directory containing the notebooks.
 
 Run the following command to start Jupyter Notebook:
 ```jupyter notebook```
