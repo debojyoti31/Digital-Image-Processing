@@ -1,6 +1,6 @@
 # Digital Image Processing in Python from Scratch
 
-Welcome to this repository, hhere you will find implementations of some basic digital image processing algorithms in Python, without using any external libraries.
+Welcome to this repository, here you will find implementations of some basic digital image processing algorithms in Python, without using any external libraries.
 
 ## Usage
 
